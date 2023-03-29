@@ -1,3 +1,5 @@
+# Management System
+본 프로젝트는 개인 관리용 시스템 프로젝트 입니다.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
